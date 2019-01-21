@@ -1,0 +1,4 @@
+﻿  Application.cpp
+d:\c-dev\opengl3d\opengl3d\src\application.cpp(35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\c-dev\opengl3d\opengl3d\src\application.cpp(208): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  OpenGL3D.vcxproj -> D:\c-dev\OpenGL3D\bin\Win32\Debug\OpenGL3D.exe
